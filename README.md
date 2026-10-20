@@ -212,4 +212,4 @@ Sokoban is offered as a complete free version with all features and updates incl
 Don't wait! Download Sokoban today and put your logic skills to the test!
 
 ---
-**Last updated:** 2026-10-19 21:59:06 UTC
+**Last updated:** 2026-10-20 00:55:56 UTC
